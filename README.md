@@ -1,4 +1,4 @@
-```
+
 # Car Marketplace
 
 Welcome to the Car Marketplace project! This is a web-based application that allows users to browse and search for cars available for sale. Users can view car details, filter cars based on various criteria, and contact sellers for more information.
