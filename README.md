@@ -1,4 +1,3 @@
-
 # Car Marketplace
 
 Welcome to the Car Marketplace project! This is a web-based application that allows users to browse and search for cars available for sale. Users can view car details, filter cars based on various criteria, and contact sellers for more information.
@@ -7,12 +6,21 @@ Welcome to the Car Marketplace project! This is a web-based application that all
 
 Check out the live demo of the Car Marketplace project: [Car Marketplace Demo](https://car-marketplace-two.vercel.app/)
 
+## Demo Video
+
+Watch a demo video of the Car Marketplace project to see its features in action:
+
+[![Car Marketplace Demo Video](https://github.com/mohamedlotfe/car_marketplace/blob/main/public/car1.png)](https://watch.screencastify.com/v/WKeROZU5YcirDoyJ6ySy)
+
 ## Features
+
 
 - Browse and search for cars
 - View detailed information about each car
+
 - Filter cars based on make, model, year, and price range
 - Contact sellers for more information
+
 - Responsive design for optimal viewing on different devices
 
 ## Technologies Used
